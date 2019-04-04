@@ -1,8 +1,6 @@
-# Base_Donnees_Autos
+# Base Données Autos
 
-### Base de données Autos
-
-Un petit squelette pour commencer a implémenté une interface graphique qui nous permet de créer notre propre base de donnée (dans cet exemple, une base de données Autos).
+    Un petit squelette pour commencer a implémenté une interface graphique qui nous permet de créer notre propre base de donnée (dans cet exemple, une base de données Autos).
 
 *Vehicule.java :* la classe qui représente l'objet Vehicule.
 
